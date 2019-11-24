@@ -23,5 +23,3 @@ This is a project that uses Python program to explore data related to bike share
 
 # Credits:
 * Thank you Udacity for making the learning experience fun and educational. 
-
-
